@@ -1,4 +1,3 @@
 # Wemba App
 
-A very simple and  Straight to the point app that was made in memory of PAPA WEMBA .
-PAPA WEMBA was a puplar congolse musician .
+A very straightforward and Straight to the point app made in memory of PAPA WEMBA. PAPA WEMBA was a popular Congolese musician.
